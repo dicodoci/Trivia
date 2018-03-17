@@ -6,6 +6,7 @@ The database for the scoreboard was implemented using [Firebase](https://firebas
 
 The similarities between input and the correct answer were calculated using the [Levenshtein Edit Distance Algorithm in Java](https://gist.github.com/gabhi/11243437)
 
+<a><img src="https://raw.githubusercontent.com/dicodoci/Trivia/master/doc/Screenshot_20180317-113123.png" width="200" /></a>
 ![App image](https://raw.githubusercontent.com/dicodoci/Trivia/master/doc/Screenshot_20180317-113123.png)
 ![App image](https://raw.githubusercontent.com/dicodoci/Trivia/master/doc/Screenshot_20180317-113250.png)
 ![App image](https://raw.githubusercontent.com/dicodoci/Trivia/master/doc/Screenshot_20180317-113648.png)
